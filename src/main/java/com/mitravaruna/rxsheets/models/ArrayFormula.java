@@ -1,4 +1,4 @@
 package com.mitravaruna.rxsheets.models;
 
-public class ArrayFormula extends Cell{
+public abstract class ArrayFormula extends Cell {
 }

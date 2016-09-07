@@ -1,4 +1,9 @@
 package com.mitravaruna.rxsheets.models;
 
-public class NumberCell extends ConstCell {
+public abstract class NumberCell extends ConstCell {
+
+    private NumberConst value;
+    private Sheet sheet;
+    private CellAddress address;
+
 }

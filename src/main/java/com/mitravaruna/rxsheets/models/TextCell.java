@@ -1,4 +1,5 @@
 package com.mitravaruna.rxsheets.models;
 
-public class TextCell extends ConstCell {
+public abstract class TextCell extends ConstCell {
+
 }
